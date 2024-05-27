@@ -1,6 +1,6 @@
 package com.kafka_demo.demo_kafka.dto;
 
-public class SecretMessageDto {
+public class KafkaMessageDto {
 
     private String message;
 
