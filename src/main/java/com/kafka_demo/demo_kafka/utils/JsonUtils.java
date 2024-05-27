@@ -1,5 +1,4 @@
 package com.kafka_demo.demo_kafka.utils;
-
 import com.google.gson.Gson;
 import org.springframework.stereotype.Component;
 
